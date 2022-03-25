@@ -10,9 +10,9 @@ namespace hw1
     {
         static void Main(string[] args)
         {
-            exercise1();
-            exercise2();
-            exercise3();
+            exercise1(); // Apply one formula
+            exercise2(); // Is the given number prime?
+            exercise3(); // List prime numbers between 2 and 10000
             Console.ReadLine();
         }
         //Apply one formula
